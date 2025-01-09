@@ -1,5 +1,5 @@
 # Market Analysis in Dublin - Airbnb
-(** To see how the work was done, please go to <b>[Airbnb Market Analysis Dublin.ipynb](https://github.com/choyoon88/dublin-market-analysis-airbnb/blob/main/Airbnb%20Market%20Analysis%20Dublin.ipynb)</b> (<i>`cmd` + `mouse left click`</i> to open on a new tab)
+(** To see how the work was done, please go to <b>[Airbnb Market Analysis Dublin.ipynb](https://github.com/choyoon88/dublin-market-analysis-airbnb/blob/main/Airbnb%20Market%20Analysis%20Dublin-2.ipynb)</b> (<i>`cmd` + `mouse left click`</i> to open on a new tab)
 
 ## Assignment
 A new city manager for Airbnb has started in Dublin and wants to better understand:
